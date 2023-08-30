@@ -8,11 +8,11 @@ my:
       - Mehl
       cream:
       - Zucker
-      - 
+      - Milch
     dough:
-    - 
+    - Eier
     - Zucker
-    - 
+    - Mehl
     cream:
-    - 
+    - Zucker
     - Milch

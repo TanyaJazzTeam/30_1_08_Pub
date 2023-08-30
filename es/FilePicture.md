@@ -39,9 +39,9 @@ Markdown es un lenguaje de marcado ligero basado en las convenciones de formato 
 
 ¡Este texto que ves aquí *en realidad* está escrito en Markdown! Para tener una idea de la sintaxis de Markdown, escriba algo de texto en la ventana izquierda y observe los resultados en la derecha.
 
-### false
+### FALSO (мод2)
 
-Dillinger uses a number of open source projects to work properly:
+Dillinger utiliza varios proyectos de código abierto para funcionar correctamente: (мод2)
 
 - [AngularJS] - ¡HTML mejorado para aplicaciones web!
 - [Ace Editor] - impresionante editor de texto basado en web

@@ -4,15 +4,15 @@ my:
     composition:
       dough:
       - Eier
-      - 
+      - Zucker
       - Mehl
       cream:
-      - 
+      - Zucker
       - 
     dough:
     - 
-    - 
+    - Zucker
     - 
     cream:
     - 
-    - 
+    - Milch

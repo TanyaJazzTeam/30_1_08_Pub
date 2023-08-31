@@ -6,12 +6,12 @@
         {
           "name": "Cinemática",
           "complexity": "média",
-          "interest": "ótimo",
+          "interest": "ótimo 2",
           "bool": "verdadeiro"
         },
         {
           "name": "Hidrodinâmica",
-          "complexity": "4",
+          "complexity": "4 2",
           "interest": "3",
           "bool": false
         }

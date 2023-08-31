@@ -4,10 +4,15 @@
       "name": "Mecânica",
       "sections": [
         {
-          "interest": "ótimo"
+          "name": "Cinemática",
+          "complexity": "média",
+          "interest": "ótimo",
+          "bool": "verdadeiro"
         },
         {
-          "complexity": "4"
+          "name": "Hidrodinâmica",
+          "complexity": "4",
+          "interest": "3"
         }
       ]
     },
